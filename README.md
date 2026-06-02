@@ -56,8 +56,7 @@ MERN Stack + Data Warehouse + Power BI + SSAS
 
 Java + React + Node.js + MySQL
 
-🔗 Repository: https://github.com/Adeeb123473/Airline-Web | https://github.com/Adeeb123473/Compile-Airline-Java
-
+🔗 Repository: https://github.com/Adeeb123473/ARS
 ---
 
 ### Medical Diagnosis System
